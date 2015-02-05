@@ -31,7 +31,9 @@ section p {
     color: #7B7B7B;
     font-size: 14px;
 }
-
+.copyright{
+    padding-bottom: 40px;
+}
 .copyright p{
     font-size: 12px;
 }
