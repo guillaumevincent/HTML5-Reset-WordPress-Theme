@@ -5,19 +5,36 @@
  * @since HTML5 Reset 2.0
  */
 ?>
-		<footer id="footer" class="source-org vcard copyright" role="contentinfo">
-			<small>&copy;<?php echo date("Y"); echo " "; bloginfo('name'); ?></small>
-		</footer>
 
+<section id="contact" class="gray-section contact">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center copyright">
+				<p>
+					<strong>
+						&copy;<?php echo date( "Y" );
+						echo " ";
+						bloginfo( 'name' ); ?>
+					</strong>
+				</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12 text-center copyright">
+				<p>
+					SARL au capital de 1000 euros - Inscrite au registre du commerce de Montpellier sous le n°808 997 803<br>
+					Siége social : Résidence l'Atelier - 393 rue rené Etiemble - 34090 Montpellier
+				</p>
+			</div>
+		</div>
 	</div>
+</section>
 
-	<?php wp_footer(); ?>
 
 
 <!-- jQuery is called via the WordPress-friendly way via functions.php -->
-
-<!-- this is where we put our custom functions -->
-<script src="<?php bloginfo('template_directory'); ?>/_/js/functions.js"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/js/jquery.min.js"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap.min.js"></script>
 
 <!-- Asynchronous google analytics; this is the official snippet.
          Replace UA-XXXXXX-XX with your site's ID and domainname.com with your domain, then uncomment to enable.
