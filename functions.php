@@ -7,4 +7,7 @@
 register_nav_menus( array(
 	'Top' => 'Navigation principale',
 ) );
+
+add_theme_support( 'title-tag' );
+
 ?>

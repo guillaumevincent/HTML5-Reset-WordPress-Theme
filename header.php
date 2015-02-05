@@ -28,16 +28,17 @@
 
 	<meta name="title" content="<?php wp_title( '|', true, 'right' ); ?>">
 
-	<meta name="description" content="<?php bloginfo('description'); ?>" />
+	<meta name="description" content="peinture, peinture montpellier, peinture 34, peinture herault, stuck, stuck montpellier, stuck 34, stuck herault, pose parquets, pose parquets montpellier, pose parquets 34, pose parquets herault,revetements sols et murs, revetements sols et murs montpellier, revetements sols et murs 34, revetements sols et murs herault,enduit, enduit montpellier, enduit 34, enduit herault,lasures, lasures montpellier, lasures 34, lasures herault,béton ciré, béton ciré montpellier, béton ciré 34, béton ciré herault,peintre-décorateur, peintre-décorateur montpellier, peintre-décorateur 34, peintre-décorateur herault,peinture chaux, peinture chaux montpellier, peinture chaux 34, peinture chaux herault,stuc italien, stuc italien montpellier, stuc italien 34, stuc italien herault,peinture naturelle, peinture naturelle montpellier, peinture naturelle 34, peinture naturelle herault" />
 
-
+	<meta name="keywords" content="peinture, peinture montpellier, peinture 34, peinture herault, stuck, stuck montpellier, stuck 34, stuck herault, pose parquets, pose parquets montpellier, pose parquets 34, pose parquets herault,revetements sols et murs, revetements sols et murs montpellier, revetements sols et murs 34, revetements sols et murs herault,enduit, enduit montpellier, enduit 34, enduit herault,lasures, lasures montpellier, lasures 34, lasures herault,béton ciré, béton ciré montpellier, béton ciré 34, béton ciré herault,peintre-décorateur, peintre-décorateur montpellier, peintre-décorateur 34, peintre-décorateur herault,peinture chaux, peinture chaux montpellier, peinture chaux 34, peinture chaux herault,stuc italien, stuc italien montpellier, stuc italien 34, stuc italien herault,peinture naturelle, peinture naturelle montpellier, peinture naturelle 34, peinture naturelle herault" >
 	<!-- concatenate and minify for production -->
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/normalize.css" />
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/bootstrap.min.css" />
 	<link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>" />
 
 	<link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/favicon.png?v=3" />
-
+	<meta name="google" content="notranslate" />
+	<meta name="google-site-verification" content="v6ipTBizziA3Hs8k58ZV4oS9lIA7OLsujE7bfcNjU2I" />
 </head>
 <body id="top">
 <div class="navbar-wrapper clear-fix">
