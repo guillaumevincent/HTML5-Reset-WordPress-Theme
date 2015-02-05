@@ -20,7 +20,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-lg-12 text-center copyright">
+			<div class="col-lg-12 text-center legals">
 				<p>
 					SARL au capital de 1000 euros - Inscrite au registre du commerce de Montpellier sous le n°808 997 803<br>
 					Siége social : Résidence l'Atelier - 393 rue rené Etiemble - 34090 Montpellier
