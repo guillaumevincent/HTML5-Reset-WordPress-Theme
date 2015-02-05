@@ -6,6 +6,22 @@
  */
  get_header(); ?>
 
-	<h2><?php _e('Error 404 - Page non trouvée', 'permac'); ?></h2>
+	<br/>
+	<br/>
+	<br/>
+
+
+	<section>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 text-center">
+
+					<h2><?php _e('Error 404 - Page non trouvée', 'permac'); ?></h2>
+
+				</div>
+			</div>
+		</div>
+	</section>
+
 
 <?php get_footer(); ?>
