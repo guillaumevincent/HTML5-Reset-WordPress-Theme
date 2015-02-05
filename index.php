@@ -106,7 +106,7 @@ get_header(); ?>
 	</div>
 </section>
 
-<section id="contact" class="gray-section contact">
+<section id="contact" class="contact">
 	<div class="container">
 		<div class="row m-b-lg">
 			<div class="col-lg-12 text-center">
